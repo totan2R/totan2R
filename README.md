@@ -15,7 +15,9 @@
 </div>
 <br>
 
-[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+<!--
+open in new tab not working
+-->
 
 - 🔭 I’m currently working on a project
 - 🌱 I’m currently learning full-stack development
