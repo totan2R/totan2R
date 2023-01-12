@@ -1,7 +1,7 @@
 ### Hi there I'm Totan Sarker👋
 
 ### Contact with me:
-
+https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [![website](./img/twitter-light.svg)](https://drive.google.com/file/d/1H4qXdQUbuPXZJYdOTpTjvC6OtR8ptxbs/view)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
