@@ -2,7 +2,7 @@
 
 ### Contact with me:
 
-[![website](./img/twitter-light.svg)](https://drive.google.com/file/d/1H4qXdQUbuPXZJYdOTpTjvC6OtR8ptxbs/view?usp=sharing)
+[![website](./img/twitter-light.svg)](https://drive.google.com/file/d/1H4qXdQUbuPXZJYdOTpTjvC6OtR8ptxbs/view)
 [![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
