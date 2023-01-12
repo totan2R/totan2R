@@ -1,4 +1,4 @@
-### Hi there this is Totan Sarker 👋
+### Hi there it's Totan Sarker 👋
 
 ## I'm a full-stack developer and problem solver
 
