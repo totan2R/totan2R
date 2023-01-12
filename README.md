@@ -12,5 +12,6 @@
 
 - 🔭 I’m currently working on a project
 - 🌱 I’m currently learning full-stack development
-- 🥅 2020 Goals: To become codeforces pupil and solve 2000+ problems (Done both)
+- 🥅 2023 Goals: solve 1000+ problem and get a job
+- ⚡ Fun fact: I love to sing and play guitar
 
