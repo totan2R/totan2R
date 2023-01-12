@@ -15,7 +15,7 @@
 </div>
 <br>
 
-<a href="your link" target="_blank">The home page will open in another tab.</a>
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 - 🔭 I’m currently working on a project
 - 🌱 I’m currently learning full-stack development
