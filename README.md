@@ -1,6 +1,6 @@
 ### Hi there I'm Totan Sarker 👋
 
-## I'm a full-stack developer,:
+## I'm a full-stack developer and problem solver
 
 ### Contact with me:
 
