@@ -27,7 +27,7 @@ open in new tab not working
 - 🌱 I’m currently learning full-stack development
 - 🥅 2023 Goals: solve 1000+ problems
 - ⚡ Fun fact: I love to sing and play guitar
-- Resume: https://drive.google.com/file/d/1R4bJRZwxzmVfTS0WUEwR_Qec7LRc6qFI/view?usp=sharing
+- <a href="https://drive.google.com/file/d/1R4bJRZwxzmVfTS0WUEwR_Qec7LRc6qFI/view?usp=sharing" target="_blank">Resume</a>
 
 
 <br/>
